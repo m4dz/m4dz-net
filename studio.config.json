@@ -1,0 +1,27 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "colors"
+    ]
+   ],
+   [
+    "COMPONENTS",
+    [
+     "hero"
+    ]
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "theme",
+     "mdx-layout",
+     "doc-layout"
+    ]
+   ]
+  ]
+ }
+}

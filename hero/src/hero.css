@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .hero {
+    @apply bg-gradient-to-r from-primary to-secondary;
+    @apply text-white;
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@backlight-dev/m4dz.m4dz-net",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve q9qiSBo7M6Lu9GXu3dE3 --open"
+  },
+  "devDependencies": {
+    "@mdx-js/react": "*",
+    "@divriots/dockit-react": "*",
+    "react": "*",
+    "@divriots/dockit-core": "*"
+  },
+  "dependencies": {}
+}
